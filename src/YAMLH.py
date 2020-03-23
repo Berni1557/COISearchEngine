@@ -1,4 +1,15 @@
+#!/usr/bin/env python
 # -*- coding: utf-8 -*-
+"""
+This code is a part of the COISeacrhEngine repo.
+
+https://github.com/Berni1557
+
+author: Bernhard Föllmer
+date: 2020-03-23
+email: bernicvision@posteo.de
+"""
+
 import yaml
 from collections import defaultdict
 from enum import Enum
@@ -11,7 +22,7 @@ class YAML_MODE(Enum):
     SAVE = 3        # Use default properties and save to yml file
     UPDATE = 4      # Update properties from file and save to new yml file
 
-class YAML:
+class YAMLH:
     """ YAML class to save and read yml files
     """ 
     def __init__(self):

@@ -9,5 +9,11 @@ pip install pdfminer.six
 conda install -c anaconda whoosh
 conda install -c anaconda pandas
 pip install pyyaml
+pip install pyinstaller
+
+pip install --upgrade setuptools
+pip install setuptools==45.0.0
+pip install cx-Freeze
+
 ---------- Installation finished ----------
 
