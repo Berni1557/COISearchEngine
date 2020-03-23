@@ -1,0 +1,13 @@
+
+---------- Starting installation ----------
+conda create -n env_COISE python=3.7
+activate env_COISE
+conda install -c anaconda spyder
+conda install -c conda-forge pypdf2
+conda install -c conda-forge pdfminer
+pip install pdfminer.six
+conda install -c anaconda whoosh
+conda install -c anaconda pandas
+pip install pyyaml
+---------- Installation finished ----------
+

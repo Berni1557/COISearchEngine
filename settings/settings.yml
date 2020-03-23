@@ -1,0 +1,10 @@
+filename_mark: mask.pdf
+filename_merge: merge.pdf
+filename_result: result.xlsx
+folderpath_pdf: H:/cloud/cloud_data/Projects/COISE/documents
+folderpath_result: H:/cloud/cloud_data/Projects/COISE/results
+maxdist: 2
+prefixlength: 1
+tags:
+- Introduction
+- Experiment
