@@ -1,0 +1,7 @@
+pypdf2
+pdfminer
+pdfminer.six
+whoosh
+pandas
+pyyaml
+openpyxl
